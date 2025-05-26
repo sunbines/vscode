@@ -8,3 +8,4 @@
 
 # 参考资料
  * [修复远程主机不满足运行vscode服务器的先决条件](https://remrin.xlog.app/vscode-remote-fix?locale=zh)
+ * [关于vscode无法远程连接至centos7服务器的解决方案](https://zhuanlan.zhihu.com/p/1909663308669260068)
